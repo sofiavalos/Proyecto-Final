@@ -1,0 +1,10 @@
+* {
+    background-color: #444444;
+    color: white;
+}
+
+p {
+    display: inline-block;
+    font-family: 'Secular One';
+    font-size: 0.7rem;
+}
