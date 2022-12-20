@@ -8,6 +8,14 @@ import { HeaderComponent } from './components/header/header.component';
 import { ButtonComponent } from './components/button/button.component';
 import { GithubButtonComponent } from './components/github-button/github-button.component';
 import { LinkedinButtonComponent } from './components/linkedin-button/linkedin-button.component';
+import { BannerComponent } from './components/banner/banner.component';
+import { ProfilePicComponent } from './components/profile-pic/profile-pic.component';
+import { SectionComponent } from './components/section/section.component';
+import { LogoArgProgramaComponent } from './components/logo-arg-programa/logo-arg-programa.component';
+import { AboutMeComponent } from './components/about-me/about-me.component';
+import { NameComponent } from './components/name/name.component';
+import { ProfessionComponent } from './components/profession/profession.component';
+import { ProfileComponent } from './components/profile/profile.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +23,15 @@ import { LinkedinButtonComponent } from './components/linkedin-button/linkedin-b
     HeaderComponent,
     ButtonComponent,
     GithubButtonComponent,
-    LinkedinButtonComponent
+    LinkedinButtonComponent,
+    BannerComponent,
+    ProfilePicComponent,
+    SectionComponent,
+    LogoArgProgramaComponent,
+    AboutMeComponent,
+    NameComponent,
+    ProfessionComponent,
+    ProfileComponent
   ],
   imports: [
     FontAwesomeModule,

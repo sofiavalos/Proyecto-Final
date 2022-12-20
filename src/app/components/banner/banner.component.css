@@ -1,0 +1,24 @@
+.banner {
+    height: 300px;
+    background-image: url(../../../assets/banner.png);
+}
+
+.informacion {
+    background-color: #3e4144;
+    /*height: 700px;*/
+    border-radius: 3%;
+    box-shadow: 0 0.3rem 15px 0.4rem black;
+}
+
+.superior {
+    height: 100px;
+}
+
+.foto_de_perfil {
+    height: 100px;
+}
+
+.foto {
+    height: 200px;
+    z-index: 500;
+}

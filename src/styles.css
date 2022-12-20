@@ -8,3 +8,24 @@ fa-icon {
 app-button {
     margin: 0.22rem 0rem 0rem 0.2rem;
 }
+
+.header {
+    height: 65px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Oswald', 'Arial';
+}
+
+.profession {
+    color: white;
+    text-align: center;
+    font-family: 'Oswald', 'Arial';
+}
+
+.informacion {
+    color: white;
+    text-align: justify;
+}
