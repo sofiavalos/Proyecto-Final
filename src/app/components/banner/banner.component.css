@@ -4,9 +4,10 @@
 }
 
 .informacion {
+    color: white;
+    text-align: justify;
     background-color: #3e4144;
-    /*height: 700px;*/
-    border-radius: 3%;
+    border-radius: 5%;
     box-shadow: 0 0.3rem 15px 0.4rem black;
 }
 

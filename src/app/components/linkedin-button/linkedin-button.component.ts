@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
 @Component({
   selector: 'app-linkedin-button',
@@ -7,5 +7,5 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
   styleUrls: ['./linkedin-button.component.css']
 })
 export class LinkedinButtonComponent {
-  faLinkedin = faLinkedin;
+  faLinkedinIn = faLinkedinIn
 }
