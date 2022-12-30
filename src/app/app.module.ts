@@ -16,6 +16,7 @@ import { AboutMeComponent } from './components/about-me/about-me.component';
 import { NameComponent } from './components/name/name.component';
 import { ProfessionComponent } from './components/profession/profession.component';
 import { ProfileComponent } from './components/profile/profile.component';
+import { DiscordButtonComponent } from './components/discord-button/discord-button.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { ProfileComponent } from './components/profile/profile.component';
     AboutMeComponent,
     NameComponent,
     ProfessionComponent,
-    ProfileComponent
+    ProfileComponent,
+    DiscordButtonComponent
   ],
   imports: [
     FontAwesomeModule,

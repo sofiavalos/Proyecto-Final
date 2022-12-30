@@ -6,6 +6,6 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
   templateUrl: './linkedin-button.component.html',
   styleUrls: ['./linkedin-button.component.css']
 })
-export class LinkedinButtonComponent {
+export class LinkedinButtonComponent {  
   faLinkedinIn = faLinkedinIn
 }
